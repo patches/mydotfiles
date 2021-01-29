@@ -1,0 +1,5 @@
+# Better ll command
+alias ll='ls -ahn'
+
+# Move to the ~/workspace/repos directory
+alias repos="cd $WORKSPACE_DIR/repos/"
