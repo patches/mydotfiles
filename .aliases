@@ -3,3 +3,6 @@ alias ll='ls -ahn'
 
 # Move to the ~/workspace/repos directory
 alias repos="cd $WORKSPACE_DIR/repos/"
+
+# Move to the ~/workspace/dumps directory
+alias repos="cd $WORKSPACE_DIR/dumps/"

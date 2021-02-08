@@ -31,4 +31,10 @@ fi
 # Source custom aliases
 [[ ! -f ~/.aliases ]] || source ~/.aliases
 
+# Source functions
+[[ ! -f ~/.functions ]] || source ~/.functions
+
+# Source tokens
+[[ ! -f ~/.zshenv.tokens ]] || source ~/.zshenv.tokens
+
 
